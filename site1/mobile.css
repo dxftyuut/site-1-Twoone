@@ -42,7 +42,7 @@
         position: absolute;
         left: 810px;
         top: 430px;
-        margin-top: 50px;
+        margin-top: 30px;
     }
     
 }
@@ -87,6 +87,7 @@
         position: absolute;
         left: 520px;
         top: 530px;
+        margin: 50px;
     }
 }
 
